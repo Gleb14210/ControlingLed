@@ -14,3 +14,16 @@ while True:
         time.sleep(1/f)
 
 GPIO.cleanup()
+
+asdasdasdasdasd
+
+asdasdasdasdasd
+
+
+asdasdasd
+
+
+asasdas
+
+
+asdasdasd
